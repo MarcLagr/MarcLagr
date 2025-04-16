@@ -1,32 +1,5 @@
 
 
-
-<p align="center">
-  <a href="https://github.com/MarcLagr">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcLagr&theme=aura"
-    />
-  <a href="https://github.com/MarcLagr">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcLagr&theme=aura"
-    />
-</p>
-
-<p align="center">
-  <a href="https://github.com/MarcLagr">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcLagr&theme=aura"
-    />
-  <a href="https://github.com/MarcLagr">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcLagr&theme=aura&utcOffset=8"
-    />
-</p>
-
 <p align="center">
  <a href="https://github.com/MarcLagr">
     <img align="center"
